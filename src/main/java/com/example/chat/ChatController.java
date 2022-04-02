@@ -24,6 +24,7 @@ public class ChatController {
         massageArea.appendText(usertext+"\n");
         massageField.clear();
         massageField.requestFocus();
+
     }
 
 }
